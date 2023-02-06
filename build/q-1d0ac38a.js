@@ -1,0 +1,1 @@
+import{c as _,T as o,_ as t}from"./q-3274b6c6.js";const e=_(o(()=>t(()=>import("./q-4cefab5f.js"),["build/q-4cefab5f.js","build/q-3274b6c6.js","build/q-c3055a87.js"]),"s_OOwoHxRgmhw")),s=_(o(()=>t(()=>import("./q-3157a441.js"),["build/q-3157a441.js","build/q-3274b6c6.js","build/q-c3055a87.js"]),"s_d95mSi8t8U8"));export{e as RouterHead,s as default};
